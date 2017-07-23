@@ -11,12 +11,12 @@ p, li {
 }
 
 .project {
-    background-color: grey;
+    background-color: yellowgreen;
 width: 543px;
 }
 
 body {
-    background: url('../images/abstract-mosaic-background.png') no-repeat center center fixed;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL2I7civis2ri_c6tdiKiPCm83mK62Jp6y2tLIvVT1XtfMDW52) no-repeat center center fixed;
     background-size: cover;
 }
 
